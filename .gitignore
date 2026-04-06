@@ -1,0 +1,4 @@
+*.joblib
+*.csv
+*.hwp
+.ipynb_checkpoints/
