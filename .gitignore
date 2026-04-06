@@ -1,4 +1,7 @@
-*.joblib
+credit_scoring_model.ipynb
+best_model.joblib
+model_metadata.joblib
+scaler.joblib
 *.csv
 *.hwp
 .ipynb_checkpoints/
